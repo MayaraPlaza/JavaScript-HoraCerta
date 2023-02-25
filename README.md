@@ -1,2 +1,3 @@
-# JavaScript-HoraCerta
-Estudo do Objeto Date ( ) - JavaScript
+# 📘 Estudo do Objeto Date()
+
+[![Hora Certa](img/card.png)](https://euclides981.github.io/hora-certa)
